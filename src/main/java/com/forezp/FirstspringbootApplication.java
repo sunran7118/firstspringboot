@@ -8,6 +8,7 @@ public class FirstspringbootApplication {
 
 	public static void main(String[] args) {
 		int a = 0;
+		int b = 1;
 		SpringApplication.run(FirstspringbootApplication.class, args);
 	}
 }
